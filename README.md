@@ -9,7 +9,7 @@ GuessTheFlag is a simple app that awards users a score whenever they guess the r
 <img src="https://user-images.githubusercontent.com/39113577/226599536-85050fbe-4787-4393-a637-14835d2a880f.png" width="200" marginRight="20"/> <img src="https://user-images.githubusercontent.com/39113577/228420392-afe80278-9d77-47ef-b4fa-0528c96ada5a.png" width="200"/> 
 
 
-## Things Learned
+## Concepts Learned
 
 1. Stacks
 2. Colors
